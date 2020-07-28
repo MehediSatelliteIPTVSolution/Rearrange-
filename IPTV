@@ -304,19 +304,33 @@ http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/218
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg" group-title="Sports",Star Sports 1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/661
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="https://img.favpng.com/10/17/10/star-sports-star-india-television-channel-sony-ten-2-png-favpng-uuyETKtmMTCbpZD1eCcrqWShh.jpg" group-title="Sports",Star Sports 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/200
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://www.satlogo.com/hires/ss/star_sports_hk_select_hd_2.png" group-title="Sports",Star Sports Select 1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/212
+
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://mplan.media/wp-content/uploads/2018/03/Star-Sports-Select-2.png" group-title="Sports",Star Sports Select 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/198
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617" group-title="Sports",Sony Ten 1
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/150
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg" group-title="Sports",Sony Ten 2
 http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/196
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMRBD LIVE",ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMRBD LIVE",ESPN HD
-http://103.214.202.218:8081/live/espnhd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/185
+
+#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",Ptv Sports
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/660
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="https://static.epg.best/gb/SkySportsCricket.uk.png" group-title="Sports",Sky Sports Cricket
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/753
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Football" tvg-logo="https://s.cafebazaar.ir/1/icons/com.bskyb.fbscore_512x512.png" group-title="Sports",Sky Football
+http://digiiptv.ddns.net:25461/mdmurshedalom/akwDtbRVgl/194
